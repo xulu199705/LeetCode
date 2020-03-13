@@ -6,7 +6,7 @@ Here is a repository established in Feb 18th, 2020. As a record of my code in Le
 
 ## Leon
 
-[邮箱][2] | [GitHub][3] | [网络日志][4]
+[Mail][2] | [GitHub][3] | [Blog][4]
 
 
   [1]: https://secure.gravatar.com/avatar/f456b76775ec86a3875007f0fb4a7512
